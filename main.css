@@ -1,0 +1,12 @@
+.resize-drag {
+    background-image: url("https://assalom.gh.uz/wp-content/uploads/about.png"), url(photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    touch-action: none;
+    z-index: 20;
+    width: 120px;
+  
+    /* This makes things *much* easier */
+    box-sizing: border-box;
+  }
